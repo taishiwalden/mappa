@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "842691175794",
+    "project_id": "mappa-17596",
+    "storage_bucket": "mappa-17596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842691175794:android:b4f95f31dbcec1069ae9eb",
+        "android_client_info": {
+          "package_name": "com.taishiwalden.mappa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842691175794-i8ohtt7uq0ps1kflk0tttbhvg0v0b44i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.taishiwalden.mappa",
+            "certificate_hash": "afa27765ee0cf0883769addd2d19c29a05ff34fc"
+          }
+        },
+        {
+          "client_id": "842691175794-sltb6e0v6b927genf276lqit8aedqfl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JNEy6f6tY5Imzfsq42OceDHWbfO1MKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842691175794-sltb6e0v6b927genf276lqit8aedqfl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842691175794-uabashaikkvnha4bnrqj9li5vea705d4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taishiwalden.mappa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
